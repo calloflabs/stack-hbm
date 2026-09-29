@@ -4,7 +4,7 @@
 
 **연구실에서 살아남기 외전** ·
 
-▶️ 플레이: https://merge-hbm.vercel.app · English: https://merge-hbm.vercel.app/?lang=en
+▶️ 플레이: https://stack-hbm.vercel.app · English: https://stack-hbm.vercel.app/?lang=en
 
 ## 조작
 
